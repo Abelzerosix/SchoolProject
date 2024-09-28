@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\School_Project_wepApp.props" />
+</Project>

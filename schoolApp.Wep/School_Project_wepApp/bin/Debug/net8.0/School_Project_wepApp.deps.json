@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "School_Project_wepApp/1.0.0": {
+        "runtime": {
+          "School_Project_wepApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "School_Project_wepApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
