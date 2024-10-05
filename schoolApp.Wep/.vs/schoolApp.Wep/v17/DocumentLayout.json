@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Project\\SchoolProject\\schoolApp.Wep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data.models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|solutionrelative:schoolapp.data.models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|d:\\project\\schoolproject\\schoolapp.wep\\school_project_wepapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|solutionrelative:school_project_wepapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|solutionrelative:schoolapp.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data.models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}|SchoolApp.Data.Models\\SchoolApp.Data.Models.csproj|solutionrelative:schoolapp.data.models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|solutionrelative:schoolapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|d:\\project\\schoolproject\\schoolapp.wep\\school_project_wepapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|solutionrelative:school_project_wepapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|d:\\project\\schoolproject\\schoolapp.wep\\school_project_wepapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11734595-4081-42A4-B6EF-533AD9373F76}|School_Project_wepApp\\School_Project_wepApp.csproj|solutionrelative:school_project_wepapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|solutionrelative:schoolapp.data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data\\configuration\\classconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|solutionrelative:schoolapp.data\\configuration\\classconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CBB7F3-A3A4-4A96-B502-B86D585455DA}|SchoolApp.Common\\SchoolApp.Common.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.common\\entityvaiidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CBB7F3-A3A4-4A96-B502-B86D585455DA}|SchoolApp.Common\\SchoolApp.Common.csproj|solutionrelative:schoolapp.common\\entityvaiidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|d:\\project\\schoolproject\\schoolapp.wep\\schoolapp.data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}|SchoolApp.Data\\SchoolApp.Data.csproj|solutionrelative:schoolapp.data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "EntityVaIidationConstants.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Common\\EntityVaIidationConstants.cs",
+              "RelativeDocumentMoniker": "SchoolApp.Common\\EntityVaIidationConstants.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Common\\EntityVaIidationConstants.cs",
+              "RelativeToolTip": "SchoolApp.Common\\EntityVaIidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:21:22.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "SchoolApp.Data\\Configuration\\StudentConfiguration.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeToolTip": "SchoolApp.Data\\Configuration\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:14:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Configuration\\ClassConfiguration.cs",
+              "RelativeDocumentMoniker": "SchoolApp.Data\\Configuration\\ClassConfiguration.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Configuration\\ClassConfiguration.cs",
+              "RelativeToolTip": "SchoolApp.Data\\Configuration\\ClassConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:13:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolApp.Data\\SchoolDbContext.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "SchoolApp.Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:01:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\School_Project_wepApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "School_Project_wepApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\School_Project_wepApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "School_Project_wepApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:49:28.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class.cs",
               "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Class.cs",
               "RelativeDocumentMoniker": "SchoolApp.Data.Models\\Class.cs",
               "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Class.cs",
               "RelativeToolTip": "SchoolApp.Data.Models\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:37:48.397Z"
+              "WhenOpened": "2024-09-28T12:37:48.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Students.cs",
-              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Students.cs",
-              "RelativeDocumentMoniker": "SchoolApp.Data.Models\\Students.cs",
-              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Students.cs",
-              "RelativeToolTip": "SchoolApp.Data.Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApp.Data.Models\\Student.cs",
+              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data.Models\\Student.cs",
+              "RelativeToolTip": "SchoolApp.Data.Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T12:07:36.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "SchoolApp.Data\\Class1.cs",
-              "ToolTip": "D:\\Project\\SchoolProject\\schoolApp.Wep\\SchoolApp.Data\\Class1.cs",
-              "RelativeToolTip": "SchoolApp.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:02:58.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Project\\SchoolProject\\schoolApp.Wep\\School_Project_wepApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "School_Project_wepApp\\Models\\ErrorViewModel.cs",
@@ -75,7 +145,8 @@
               "RelativeToolTip": "School_Project_wepApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:01:14.295Z"
+              "WhenOpened": "2024-09-28T12:01:14.295Z",
+              "EditorCaption": ""
             }
           ]
         }

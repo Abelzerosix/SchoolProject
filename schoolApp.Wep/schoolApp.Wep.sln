@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School_Project_wepApp", "School_Project_wepApp\School_Project_wepApp.csproj", "{11734595-4081-42A4-B6EF-533AD9373F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School_Project_wepApp", "School_Project_wepApp\School_Project_wepApp.csproj", "{11734595-4081-42A4-B6EF-533AD9373F76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8CFA81E9-4B03-400D-9901-AEA9F8812CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApp.Data", "SchoolApp.Data\SchoolApp.Data.csproj", "{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolApp.Data", "SchoolApp.Data\SchoolApp.Data.csproj", "{91DA69E6-17F3-48A3-B1D8-5E09B5152E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApp.Data.Models", "SchoolApp.Data.Models\SchoolApp.Data.Models.csproj", "{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolApp.Data.Models", "SchoolApp.Data.Models\SchoolApp.Data.Models.csproj", "{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApp.Common", "SchoolApp.Common\SchoolApp.Common.csproj", "{53CBB7F3-A3A4-4A96-B502-B86D585455DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A8052B0-4BFA-4FFD-AD51-F4C34ED99D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CBB7F3-A3A4-4A96-B502-B86D585455DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CBB7F3-A3A4-4A96-B502-B86D585455DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CBB7F3-A3A4-4A96-B502-B86D585455DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CBB7F3-A3A4-4A96-B502-B86D585455DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
